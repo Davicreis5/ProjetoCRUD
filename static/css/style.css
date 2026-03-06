@@ -1,4 +1,5 @@
 /**
+ * static\css\style.css
  * CSS do layout.
  * Folhas de estilo complementares do template.
  */
@@ -12,7 +13,7 @@ select {
 }
 
 body {
-    background-image: url('static/img/bg01.png');
+    background-image: url('/static/img/bg01.png');
     background-attachment: fixed;
 }
 
@@ -64,4 +65,10 @@ footer a:hover {
     z-index: 1050;
     font-size: small;
     opacity: 90%;
+}
+
+.profile-card {
+    width: 100%;
+    max-width: 400px;
+    margin: auto;
 }

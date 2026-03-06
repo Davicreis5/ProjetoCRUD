@@ -10,7 +10,7 @@
  *  - Se vazio (''), faz logout do usuário
  *  - Se tem uma URL (Ex.: '/profile'), acessa
  */
-const loggedUserAction = '';
+const loggedUserAction = '/owner/profile';
 // const loggedUserAction = '/profile';
 
 /**
