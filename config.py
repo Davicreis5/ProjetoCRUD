@@ -10,13 +10,12 @@ APP = {
 
     # Chave secreta (48 caracteres)
     # Obtenha essa chave rodando `python keygen.py`
-    'secret_key': 'cd7f22a51db44388ab53f1347c3f5d8739dc42038a47eb2ee56a12c0a574db216c5c170041e1f4e7a4514fe3f922b3e0',
+    'secret_key': 'db90279b4cdd584af0742deff388fad5345e43ed22d6b62976c203446c215dba78c2e9a8bd1196a709236f84f1df8248',
 }
 
 # Configurações do banco de dados
 DB = {
     'name': 'database.db',
-
 }
 
 # Configurações dos cookies
